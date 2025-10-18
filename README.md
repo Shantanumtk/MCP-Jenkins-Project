@@ -170,6 +170,12 @@ curl -I -H "Authorization: Basic <BASE64_USERNAME_COLON_TOKEN>" \
 ```
 
 ---
+## Screenshots
+<img width="1710" height="966" alt="MCP-Jenkins-1" src="https://github.com/user-attachments/assets/19b95751-49ce-4d61-8af1-60a8b1883962" />
+<img width="1710" height="966" alt="MCP-Jenkins-2" src="https://github.com/user-attachments/assets/6211b3ab-81f3-4d72-ad44-04ea8cc4ef2a" />
+<img width="1710" height="966" alt="MCP-Jenkins-3" src="https://github.com/user-attachments/assets/244ff541-d05b-4eea-a9fc-b5c20996cff9" />
+<img width="1710" height="966" alt="MCP-Jenkins-4" src="https://github.com/user-attachments/assets/33c37ba9-2404-4157-92e0-f5cc7e8eea55" />
+<img width="1710" height="966" alt="MCP-Jenkins-5" src="https://github.com/user-attachments/assets/ca447e64-6a57-4dd0-b8df-5e675bf0842a" />
 
 ## Common URLs
 
